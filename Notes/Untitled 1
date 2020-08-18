@@ -1,0 +1,34 @@
+Abstract class can have static variables while interface can have only 
+static final variables 
+---> this variables always must be initialized 
+
+
+Abstract class can have constructor 
+
+
+
+
+
+
+
+
+
+OOPs
+
+inheritance: is a mechanism in which one object acquires 
+all the properties and behaviors(except private members) of a parent class
+
+poly- morphysm: is the ability of an object to take on many forms
+
+runtime through overriding 
+compile time through overloading
+
+Abstraction : process of hiding implementation details
+achieved 2 ways: abstract class and interface
+
+
+Encapsulation- 
+
+
+
+

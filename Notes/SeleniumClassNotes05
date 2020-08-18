@@ -1,0 +1,30 @@
+Selenium Class 05
+
+DropDown: is a menu or method which allows user to select one or multiple options
+
+types of DropDown
+
+1.Single select
+
+2.Multiple select
+
+
+    2 WAYS to perform actions on DropDown:
+
+       1.just clicking on a DropDown and clicking on the option
+       2.using Select class
+
+in order to use the select class we need to make sure that we have a <select> tagName
+
+    Selecting options can be done in 3 ways:
+       1.select by index
+       2. select by visible text
+       3.select by value
+       
+       
+       Select select = new Select(dayDD); --> webElement has to have a select tag
+       
+       To identify whether DD is multiple select or single select
+       
+       
+       
